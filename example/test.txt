@@ -1,0 +1,12 @@
+登录
+{"msgid":1,"id":22,"password":"123456"}
+{"msgid":1,"id":21,"password":"123456"}
+
+发消息
+{"msgid":5,"id":22,"from":"Chan","to":21,"msg":"world"}
+{"msgid":5,"id":21,"from":"gao yang","to":22,"msg":"hi"}
+
+添加好友
+{"msgid":6,"id":22,"friendid":21}
+
+telnet 127.0.0.1 6000
